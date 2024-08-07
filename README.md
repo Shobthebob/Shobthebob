@@ -23,7 +23,4 @@ Here you will find all the projects that I have made for my current/previous res
 ## 📫 Let's Connect!
 Feel free to reach out to me for any collaboration, project ideas, job opportunities, or just a friendly chat! Here are some of my socials:
 
-[<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-](https://www.linkedin.com/in/shoubhit-jamadhiar-90049a241/)&nbsp;[<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram">
-](https://www.instagram.com/amiableshob/)&nbsp;[<img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoSize=10">
-](https://www.hackerrank.com/profile/shoubhit2090)&nbsp;[<img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode">](https://leetcode.com/u/Shoubhit/)
+[<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/shoubhit-jamadhiar-90049a241/)&nbsp;&nbsp;[<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram">](https://www.instagram.com/amiableshob/)&nbsp;&nbsp;[<img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoSize=10">](https://www.hackerrank.com/profile/shoubhit2090)&nbsp;&nbsp;[<img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode">](https://leetcode.com/u/Shoubhit/)
