@@ -5,7 +5,7 @@
 👋 Hello there! I'm Shoubhit, the guy who loves anything and everything about computer science. 
 - 🎓 Currently pursuing a bachelor's degree in Computer Science. 
 - 🌱 Constantly learning and growing in the field. 
-- 🎮 Love gaming and plan to get into game developement soon.
+- 🎮 Love gaming and plan to get into game development soon.
 
 Here you will find all the projects that I have made for my current/previous resume(s). Feel free to look around and explore!
 
