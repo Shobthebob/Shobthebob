@@ -7,7 +7,7 @@
 - 🌱 Constantly learning and growing in the field. 
 - 🎮 Love gaming and plan to get into game development soon.
 
-Here you will find all the projects that I have made for my current/previous resume(s). Feel free to look around and explore!
+Here you will find all the projects that I have made personally. Feel free to look around and explore!
 
 <br>
 
