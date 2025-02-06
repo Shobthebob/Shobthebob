@@ -3,7 +3,7 @@
 
 ## 🌟 About Me
 👋 Hello there! I'm Shoubhit, the guy who loves anything and everything about computer science. 
-- 🎓 Currently pursuing a bachelor's degree in Computer Science. 
+- 🎓 Currently pursuing a bachelor's degree in Computer Science, minor in Cybersecurity. 
 - 🌱 Constantly learning and growing in the field. 
 - 🎮 Love gaming and plan to get into game development soon.
 
