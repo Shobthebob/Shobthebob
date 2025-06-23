@@ -66,8 +66,8 @@ I’m passionate about everything related to computers and am always growing in 
 Feel free to reach out for internships, collaborations, or cool side quests!<br>
 I love meeting likeminded curious induviduals, building great things, and learning from others.
 <div align="center">
-  <a href="https://www.linkedin.com/in/shoubhit-jamadhiar-90049a241/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.instagram.com/amiableshob/"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram"></a>
+  <a href="https://www.linkedin.com/in/shoubhit-jamadhiar"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/shoubhit.j/"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram"></a>
   <a href="https://www.hackerrank.com/profile/shoubhit2090"><img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoSize=10"></a>
   <a href="https://leetcode.com/u/Shoubhit/"><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode"></a>
 </div>
