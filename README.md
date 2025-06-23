@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ3M3dnc2w0a2VsazZzcTQxamw2amt5NGNpanlycXBhN3U3NnRqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UHTqZ3SRvQOY/giphy.gif" />
+  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ3M3dnc2w0a2VsazZzcTQxamw2amt5NGNpanlycXBhN3U3NnRqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UHTqZ3SRvQOY/giphy.gif" />
 </div>
 <h3 font-size="60px" align="center">Hey there! 🧑‍💻</h3>
 <hr>
