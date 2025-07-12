@@ -38,7 +38,7 @@ I’m passionate about everything related to computers and am always growing in 
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a>
 
 
-<h3 align="left">🚀 Technical</h3>
+<h3 align="left">🚀 Technical (Hover over)</h3>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=kali" title="Cybersecurity"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=azure" title="Cloud Computing"/></a>
