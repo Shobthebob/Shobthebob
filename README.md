@@ -31,7 +31,7 @@ I’m passionate about everything related to computers and am always growing in 
 
 <h3 align="left">⚙️ Tools & Technologies</h3>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=arch" title="Arch Linux"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux" title="Arch, Kali, Ubuntu"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=bash" title="Bash"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=neovim" title="Neovim"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=azure" title="Microsoft Azure"/></a>
