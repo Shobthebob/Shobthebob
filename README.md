@@ -50,16 +50,6 @@ I’m passionate about everything related to computers and am always growing in 
 <h4 align="center">Since theres a lot to show, I've chosen to highlight only my most relevant skills</h3>
 <br>
 
-<h1 align="left">🌟 Projects</h1>
-
-- 📝 **[To-Do Manager - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ShoubhitJamadhiar.to-do-manager)**:  
-  A lightweight task manager for devs that lives right in your VS Code sidebar.
-
-- 🌐 **[Portfolio Website](https://shobthebob.github.io)**:  
-  Built with only HTML/CSS/JS to showcase who I am and what I do.
-
-<br>
-
 <h1 align="left">📫 Contact Me</h3>
 
 <p>
